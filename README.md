@@ -1,2 +1,1 @@
-# .-ipfone_store.
-سلام 
+# .-ipfone_store. 
